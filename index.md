@@ -83,3 +83,5 @@
 * [一意分解整域のノート](docs/ufd-20190518.pdf)
 
   最近（2019年5月11日から12日），立腹層（@rippukusou）から「一意分解整域の議論は整域の乗法から定まる可換モノイドの言葉で整理できる」という話を聞いて，なるほどと思ったのでまとめました．一意分解整域のノートといいながら，ほとんど可換モノイドについて調べています．必要に思えたので「順序型可換モノイド」という概念を導入したのですが，これにはすでに名前が付いているのでしょうか？あるいは，簡単な同値条件があるのでしょうか？（2019年5月18日公開）
+
+  2019年5月31日：「順序型可換モノイド」について，Twitterでいたりんっ（@italing_math）さんに情報を教えていただきました．「naturally partially orderd」や「H-trivial」などと呼ぶようです．（[Twitter](https://twitter.com/italing_math/status/1130250214835490817)，[Mathematics Stack Exchange](https://math.stackexchange.com/questions/857903/is-there-a-name-for-those-commutative-monoids-in-which-the-divisibility-order-is)）
