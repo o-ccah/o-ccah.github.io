@@ -130,7 +130,7 @@
   
   2019/05/18: 公開
 
-  2019/05/31: 「順序型可換モノイド」について，Twitterでいたりんっ（@italing_math）さんに情報を教えていただきました．「naturally partially orderd」や「H-trivial」などと呼ぶようです．（[Twitter](https://twitter.com/italing_math/status/1130250214835490817)，[Mathematics Stack Exchange](https://math.stackexchange.com/questions/857903/is-there-a-name-for-those-commutative-monoids-in-which-the-divisibility-order-is)）
+  2019/05/31: 「順序型可換モノイド」について，Twitterでいたりんっ（@italing_math）さんに情報を教えていただきました．「naturally partially ordered」や「H-trivial」などと呼ぶようです．（[Twitter](https://twitter.com/italing_math/status/1130250214835490817)，[Mathematics Stack Exchange](https://math.stackexchange.com/questions/857903/is-there-a-name-for-those-commutative-monoids-in-which-the-divisibility-order-is)）
 
   2019/08/12: 誤植などを修正し，概要と目次を追加しました．また，参考文献を追加しました．
 
