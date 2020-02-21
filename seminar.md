@@ -8,7 +8,7 @@
 
 目標: コンパクト複素多様体について学ぶ．
 
-教科書: R. O. Wells, _Differential Analysis on Complex Manifolds_, Springer.
+教科書: R. O. Wells, _Differential Analysis on Complex Manifolds_, 3rd edition, Springer, 2008.
 
 発表者: 箱，他1人（Aとする）
 
@@ -18,13 +18,13 @@
   
   発表者: 箱
 
-  内容: I.1節から始め，Example 1.8（Grassmann 多様体）の途中で終わった．
+  内容: I.1節から始め，Example 1.8（Grassmann多様体）の途中で終わった．
 
 * 第2回 2019/12/09 (月)
 
   発表者: 箱
 
-  内容: Example 1.8（Grassmann 多様体）から始め，I.1節を終えた．
+  内容: Example 1.8（Grassmann多様体）から始め，I.1節を終えた．
 
 * 第3回 2019/01/06 (月)
 
