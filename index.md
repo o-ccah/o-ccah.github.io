@@ -8,5 +8,5 @@
 
 ## サブページ
 
-[文書置き場](docs.md)
-[ゼミの記録](seminar.md)
+* [文書置き場](docs.md)
+* [ゼミの記録](seminar.md)
