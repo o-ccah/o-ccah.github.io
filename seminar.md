@@ -15,9 +15,7 @@
 聴講者: 3人
 
 <details>
-  <summary>
-    記録を表示
-  </summary>
+  <summary>記録を表示</summary>
 
   * 第1回 2019/12/02 (月)
     
