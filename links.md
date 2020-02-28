@@ -46,6 +46,9 @@
 * <https://math.stackexchange.com/questions/601311/is-there-a-peter-weyl-theorem-for-the-quasi-invariant-measure-on-a-homogeneous-s>
 * <https://math.stackexchange.com/questions/1358312/representation-theory-of-locally-compact-groups>
 * <https://math.stackexchange.com/questions/429164/continuous-image-of-a-locally-connected-space-which-is-not-locally-connected>
+* <https://math.stackexchange.com/questions/407969/question-about-proof-that-finite-dimensional-subspaces-of-normed-vector-spaces-a>
+* <https://math.stackexchange.com/questions/638216/spectral-theorem-for-unbounded-self-adjoint-operators-on-real-hilbert-spaces>
+* <https://math.stackexchange.com/questions/128998/a-clean-approach-to-integrals>
 
 ### その他
 
@@ -59,6 +62,7 @@
 * <https://qiita.com/zr_tex8r/items/9dfeafecca2d091abd02>
 * <https://qiita.com/wtsnjp/items/92720fac07d5dc366f10>
 * <https://blog.wtsnjp.com/2019/10/31/bxghost/>
+* <https://qiita.com/munepi/items/2e1524859e24b5fb44bc>
 
 ## 言語
 
@@ -66,6 +70,7 @@
 * <https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/sanko/index.html>
 * <https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/sanko/koyobun/index.html>
 * <https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/sanko/horei/index.html>
+* <https://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/kokugo_kadai/iinkai_24/pdf/r1412638_02.pdf>
 * <https://www.kikakurui.com/z8/Z8301-2019-01.html>
 * <http://buddhagaja.soregashi.com>
 * <http://buddhagaja.soregashi.com/sub.html>
