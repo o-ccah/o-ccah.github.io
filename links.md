@@ -6,10 +6,10 @@
 
 ### ブログなど
 
-* <https://terrytao.wordpress.com/2011/06/13/brouwers-fixed-point-and-invariance-of-domain-theorems-and-hilberts-fifth-problem/>
-* <https://terrytao.wordpress.com/2011/09/12/the-inverse-function-theorem-for-everywhere-differentiable-maps/>
-* <https://terrytao.wordpress.com/2011/01/23/the-peter-weyl-theorem-and-non-abelian-fourier-analysis-on-compact-groups/>
-* <https://terrytao.wordpress.com/2009/02/09/245b-notes-10-compactness-in-topological-spaces/#more-1749>
+* <https://terrytao.wordpress.com/2011/06/13/brouwers-fixed-point-and-invariance-of-domain-theorems-and-hilberts-fifth-problem>
+* <https://terrytao.wordpress.com/2011/09/12/the-inverse-function-theorem-for-everywhere-differentiable-maps>
+* <https://terrytao.wordpress.com/2011/01/23/the-peter-weyl-theorem-and-non-abelian-fourier-analysis-on-compact-groups>
+* <https://terrytao.wordpress.com/2009/02/09/245b-notes-10-compactness-in-topological-spaces>
 * <https://dantopology.wordpress.com>
 * <http://www12.plala.or.jp/echohta/top/tpage01c.html>
 
@@ -49,9 +49,12 @@
 * <https://math.stackexchange.com/questions/407969/question-about-proof-that-finite-dimensional-subspaces-of-normed-vector-spaces-a>
 * <https://math.stackexchange.com/questions/638216/spectral-theorem-for-unbounded-self-adjoint-operators-on-real-hilbert-spaces>
 * <https://math.stackexchange.com/questions/128998/a-clean-approach-to-integrals>
+* <https://math.stackexchange.com/questions/1154235/are-countably-infinite-compact-hausdorff-spaces-necessarily-second-countable>
+* <https://math.stackexchange.com/questions/1875614/how-many-compact-hausdorff-spaces-are-there-of-a-given-cardinality>
 
 ### その他
 
+* <http://www.bourbaki.ens.fr>
 * <http://archives-bourbaki.ahp-numerique.fr>
 
 ## TeX/LaTeX
