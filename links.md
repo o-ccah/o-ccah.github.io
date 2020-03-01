@@ -38,6 +38,7 @@
 * <https://mathoverflow.net/questions/26001/are-the-rationals-homeomorphic-to-any-power-of-the-rationals>
 * <https://mathoverflow.net/questions/95923/category-of-uniform-spaces>
 * <https://mathoverflow.net/questions/151887/quotient-metric-space>
+* <https://mathoverflow.net/questions/59071/what-elementary-problems-can-you-solve-with-schemes>
 * <https://math.stackexchange.com/questions/131642/the-extension-of-smooth-function>
 * <https://math.stackexchange.com/questions/1892976/the-space-mathcald-omega-of-test-functions-is-not-a-sequential-space>
 * <https://math.stackexchange.com/questions/170984/are-commutative-c-algebras-really-dual-to-locally-compact-hausdorff-spaces>
@@ -51,6 +52,7 @@
 * <https://math.stackexchange.com/questions/128998/a-clean-approach-to-integrals>
 * <https://math.stackexchange.com/questions/1154235/are-countably-infinite-compact-hausdorff-spaces-necessarily-second-countable>
 * <https://math.stackexchange.com/questions/1875614/how-many-compact-hausdorff-spaces-are-there-of-a-given-cardinality>
+* <https://math.stackexchange.com/questions/47395/the-duals-of-l-infty-and-l-infty>
 
 ### その他
 
@@ -60,12 +62,38 @@
 ## TeX/LaTeX
 
 * <https://texwiki.texjp.org>
+* <https://texwiki.texjp.org/?hyperref>
+* <https://texwiki.texjp.org/?TikZ>
+* <https://texwiki.texjp.org/?Visual%20Studio%20Code%2FLaTeX>
+* <https://zrbabbler.hatenablog.com>
+* <http://zrbabbler.sp.land.to>
+* <http://acetaminophen.hatenablog.com>
+* <https://doratex.hatenablog.jp>
+* <https://blog.wtsnjp.com>
+* <https://gist.github.com/zr-tex8r/c3ba9b26820235b3d026fb5e94af374d>
+* <https://oku.edu.mie-u.ac.jp/~okumura/jsclasses/>
+* <https://www.opt.mist.i.u-tokyo.ac.jp/~tasuku/tikz.html>
+* <https://math0.pm.tokushima-u.ac.jp/~atsuhito/tex/tikz.html>
 * <https://qiita.com/popunbom/items/7d02fc75ad23b735d28c>
 * <https://qiita.com/zr_tex8r/items/297154ca924749e62471>
 * <https://qiita.com/zr_tex8r/items/9dfeafecca2d091abd02>
+* <https://qiita.com/zr_tex8r/items/71ae46c9c4e8cb575073>
+* <https://qiita.com/zr_tex8r/items/50168ad7087516c3e139>
+* <https://qiita.com/zr_tex8r/items/ac9176e4611bf233a3e0>
 * <https://qiita.com/wtsnjp/items/92720fac07d5dc366f10>
-* <https://blog.wtsnjp.com/2019/10/31/bxghost/>
+* <https://qiita.com/wtsnjp/items/f8d853cccb9fd95b012c>
 * <https://qiita.com/munepi/items/2e1524859e24b5fb44bc>
+* <https://qiita.com/takahashim/items/5fcc68fbc8a3eca42f07>
+* <https://blog.wtsnjp.com/2019/10/31/bxghost/>
+* <https://zrbabbler.hatenablog.com/entry/20160604/1465051124>
+* <http://hakuoku.hatenablog.com/entry/2017/10/10/231839>
+* <https://oku.edu.mie-u.ac.jp/tex/mod/forum/discuss.php?d=1285>
+* <http://www.med.osaka-u.ac.jp/pub/anes/www/html/manual/classfile.html>
+* <https://www.logic.at/staff/salzer/etc/mhyphen/>
+* <http://www.fugenji.org/~thomas/texlive-guide/gen_no_noto.html>
+* <https://org-technology.com/posts/lualatex-unicode-math.html>
+* <https://oku.edu.mie-u.ac.jp/~okumura/texfaq/qa/55957.html>
+* <http://detexify.kirelabs.org>
 
 ## 言語
 
