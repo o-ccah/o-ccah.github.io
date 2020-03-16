@@ -140,6 +140,8 @@
 * <https://www.ganganonline.com/contents/watashiga/>
 * <https://mangacross.jp/comics/yabai>
 * <https://tonarinoyj.jp/episode/10834108156634350002>
+* <https://comic-walker.com/contents/detail/KDCW_AM06000005010000_68/>
+* <https://comic-walker.com/contents/detail/KDCW_AM06200780010000_68/>
 * <https://ncode.syosetu.com/n5040ce/>
 * <https://ncode.syosetu.com/n7983cw/>
 * <https://ncode.syosetu.com/n8920ex/>
