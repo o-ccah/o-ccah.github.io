@@ -17,7 +17,7 @@
 * <https://mathematics-pdf.com>
 * <https://yutsumura.com/a-one-line-proof-that-there-are-infinitely-many-prime-numbers/>
 
-### 質問サイト
+### MathOverflow
 
 * <https://mathoverflow.net/questions/tagged/gn.general-topology?tab=Votes>
 * <https://mathoverflow.net/questions/tagged/ca.classical-analysis-and-odes?tab=Votes>
@@ -52,6 +52,10 @@
 * <https://mathoverflow.net/questions/297236/is-box-n-in-omega0-1-connected>
 * <https://mathoverflow.net/questions/37272/are-all-sets-totally-ordered>
 * <https://mathoverflow.net/questions/76134/topological-characterisation-of-the-real-line>
+* <https://mathoverflow.net/questions/8846/proofs-without-words>
+
+### Mathematics Stack Exchange
+
 * <https://math.stackexchange.com/questions/131642/the-extension-of-smooth-function>
 * <https://math.stackexchange.com/questions/1892976/the-space-mathcald-omega-of-test-functions-is-not-a-sequential-space>
 * <https://math.stackexchange.com/questions/170984/are-commutative-c-algebras-really-dual-to-locally-compact-hausdorff-spaces>
@@ -81,6 +85,7 @@
 * <https://math.stackexchange.com/questions/390850/integrating-int-infty-0-e-x2-dx-using-feynmans-parametrization-trick>
 * <https://math.stackexchange.com/questions/845656/does-paracompact-hausdorff-imply-perfectly-normal>
 * <https://math.stackexchange.com/questions/839848/category-theoretic-description-of-the-real-numbers>
+* <https://math.stackexchange.com/questions/878406/prove-large-int-0-infty-left-2f-1-left-frac16-frac12-frac13-x-right>
 
 ### Bourbaki
 
