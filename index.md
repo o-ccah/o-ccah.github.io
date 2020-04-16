@@ -10,3 +10,4 @@
 
 * [文書置き場](docs.md)
 * [ゼミの記録](seminar.md)
+* [bioの記録](bio.md)
