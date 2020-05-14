@@ -86,6 +86,7 @@
 * <https://math.stackexchange.com/questions/845656/does-paracompact-hausdorff-imply-perfectly-normal>
 * <https://math.stackexchange.com/questions/839848/category-theoretic-description-of-the-real-numbers>
 * <https://math.stackexchange.com/questions/878406/prove-large-int-0-infty-left-2f-1-left-frac16-frac12-frac13-x-right>
+* <https://math.stackexchange.com/questions/527658/prime-ideals-in-c0-1>
 
 ### Bourbaki
 
