@@ -8,7 +8,7 @@
 
 目的: コンパクト複素多様体について学ぶ．
 
-教科書: R. O. Wells, _Differential Analysis on Complex Manifolds_, 3rd edition, Springer, 2008.
+教科書: R. O. Wells, Jr., *Differential Analysis on Complex Manifolds*, 3rd edition, Springer, 2008.
 
 発表者: たちつてとみー，箱
 
@@ -102,6 +102,18 @@
 
   補足: II.4節はČechコホモロジーに関する定義と定理が証明なしで述べられているのみだったので，各自での確認をお願いした．次回から第III章に入る予定である．
 
+* 第15回 2020/05/07 (木)
+
+  発表者: たちつてとみー
+
+  内容: III.1節から始め，p. 71のRemarkまで終えた．
+
+* 第16回 2020/05/14 (木)
+
+  発表者: たちつてとみー
+
+  内容: p. 71のRemarkの直後から始め，III.1節を終えた．
+
 ### 児玉永見ゼミ
 
 目的: 位相空間論の深淵に触れる．
@@ -186,7 +198,7 @@
 
   内容: 28 Čech完備性 (28.8--28.14)
   
-  補足: 28.15（T_{3.5}空間であってその任意のコンパクト化の剰余が正規でない例）は興味が無いので飛ばした．
+  補足: 28.15（T3.5空間であってその任意のコンパクト化の剰余が正規でない例）は興味が無いので飛ばした．
 
 * 第19回 2019/05/23 (木)
 
@@ -278,7 +290,7 @@
 
   内容: 36 被覆次元 (36.7--36.8)
 
-  補足: 36.7証明で，p. 231, l. 3の式が成立する理由がわかっていない．原論文は P. Vopenka, "Remarks on the dimension of metric spaces", _Czechoslovak Mathematical Journal_ **9** (1959): 519--522. だと思われるので，アクセスが可能になり次第確認する．
+  補足: 36.7証明で，p. 231, l. 3の式が成立する理由がわかっていない．原論文は P. Vopenka, "Remarks on the dimension of metric spaces", *Czechoslovak Mathematical Journal* **9** (1959): 519--522. だと思われるので，アクセスが可能になり次第確認する．
 
 * 第39回 2020/04/28 (火)
 
@@ -306,8 +318,8 @@
 
 参考書:
 
-* W. Arveson, _A Short Course on Spectral Theory_, Springer, 2002.
-* N. Bourbaki, _Éléments de mathématique, Théories spectrales: Chapitres 1 et 2_, 2ème édition, Springer, 2019.
+* W. Arveson, *A Short Course on Spectral Theory*, Springer, 2002.
+* N. Bourbaki, *Éléments de mathématique, Théories spectrales: Chapitres 1 et 2*, 2ème édition, Springer, 2019.
 
 発表者: 箱
 
@@ -465,7 +477,7 @@
 
 ### 局所コンパクトHausdorff空間上の測度論ゼミ
 
-参考書: D. L. Cohn, _Measure Theory_, 2nd edition, Springer, 2013.
+参考書: D. L. Cohn, *Measure Theory*, 2nd edition, Springer, 2013.
 
 発表者: 箱
 
