@@ -14,4 +14,4 @@
 
 * [文書置き場](docs.md)
 * [セミナーの記録](seminar.md)
-* [bioの記録](bio.md)
+* [bio の記録](bio.md)
