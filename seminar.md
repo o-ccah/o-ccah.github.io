@@ -7,7 +7,7 @@
 * [Wells セミナー](seminar/wells.md)
 * [児玉永見セミナー](seminar/kodama-nagami.md)
 
-### 終了したセミナー
+## 終了したセミナー
 
 * [Gelfand 理論セミナー](seminar/gelfand.md)
 * [リー群と表現論セミナー](seminar/kobayashi-oshima.md)
