@@ -39,4 +39,4 @@
 
 ## その他
 
-* [Kunen『数学基礎論講義』第I章の演習問題の解答](docs/kunen-foundations-answer.md)
+* [Kunen『数学基礎論講義』第 I 章の演習問題の解答](docs/kunen-foundations-answer.md)
