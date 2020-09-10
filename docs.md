@@ -36,6 +36,7 @@
 * [付値体のノート](docs/valued-field.md)
 * [Gelfand 理論のノート](docs/gelfand.md)
 * [列型空間のノート](docs/sequential-space.md)
+* [スペクトル分解のノート](docs/spectral-decomposition.md)
 
 ## その他
 
