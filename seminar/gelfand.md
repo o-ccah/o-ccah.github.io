@@ -1,6 +1,6 @@
 # Gelfand 理論セミナー
 
-このセミナーの内容（スペクトル分解に関する部分を除く）は，「[Gelfand 理論のノート](../docs/gelfand.md)」と「[スペクトル分解のノート](../docs/spectral-decomposition.md)」にまとめてあります．
+このセミナーの内容は，「[Gelfand 理論のノート](../docs/gelfand.md)」と「[スペクトル分解のノート](../docs/spectral-decomposition.md)」にまとめてあります．
 
 参考書:
 
