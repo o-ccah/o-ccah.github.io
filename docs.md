@@ -37,6 +37,7 @@
 * [Gelfand 理論のノート](docs/gelfand.md)
 * [列型空間のノート](docs/sequential-space.md)
 * [スペクトル分解のノート](docs/spectral-decomposition.md)
+* [コンパクト作用素のノート](docs/compact-operator.md)
 
 ## その他
 
