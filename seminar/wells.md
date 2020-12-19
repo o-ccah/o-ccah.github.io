@@ -1,5 +1,7 @@
 # Wells セミナー
 
+## 概要
+
 目的: コンパクト複素多様体について学ぶ．
 
 教科書: R. O. Wells, Jr., *Differential Analysis on Complex Manifolds*, 3rd edition, Springer, 2008.
@@ -7,6 +9,8 @@
 発表者: たちつてとみー，箱
 
 聴講者: 計 5 人
+
+## 記録
 
 * 第 1 回 2019/12/02 (月)
     

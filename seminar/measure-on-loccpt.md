@@ -1,10 +1,14 @@
 # 局所コンパクト Hausdorff 空間上の測度論セミナー
 
+## 概要
+
 参考書: D. L. Cohn, *Measure Theory*, 2nd edition, Springer, 2013.
 
 発表者: 箱
 
 聴講者: ネス，ふぁるし
+
+## 記録
 
 * 第 1 回 2019/??/?? (?)
 
