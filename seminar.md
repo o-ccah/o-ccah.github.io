@@ -6,6 +6,7 @@
 
 * [児玉永見セミナー](seminar/kodama-nagami.md)
 * [GSM46 セミナー](seminar/gsm46.md)
+* [コンパクト群の表現論セミナー](seminar/peter-weyl.md)
 
 ## 終了したセミナー
 
