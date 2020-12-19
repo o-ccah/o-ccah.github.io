@@ -2,6 +2,8 @@
 
 このセミナーの内容は，「[Gelfand 理論のノート](../docs/gelfand.md)」と「[スペクトル分解のノート](../docs/spectral-decomposition.md)」にまとめてあります．
 
+## 概要
+
 参考書:
 
 * W. Arveson, *A Short Course on Spectral Theory*, Springer, 2002.
@@ -10,6 +12,8 @@
 発表者: 箱
 
 聴講者: ふぁるし，他 1 人
+
+## 記録
 
 * 第 1 回 2019/11/27 (水)
 

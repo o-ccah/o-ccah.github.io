@@ -4,14 +4,14 @@
 
 目的: コンパクト群の表現の基礎を学び，Peter--Weyl の定理を証明する．
 
-発表者: 箱
-
-聴講者: 8 人
-
 参考書:
 
 * G. B. Folland, *A Course in Abstract Harmonic Analysis*, CRC Press, 1994.
 * 小林俊行，大島利雄，『リー群と表現論』，岩波書店，2005．
+
+発表者: 箱
+
+聴講者: 8 人
 
 ## 記録
 
