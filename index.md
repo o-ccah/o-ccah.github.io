@@ -15,3 +15,4 @@
 * [文書置き場](docs.md)
 * [セミナーの記録](seminar.md)
 * [bio の記録](bio.md)
+* [日記](diary.md)
