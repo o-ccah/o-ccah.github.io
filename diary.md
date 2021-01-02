@@ -2,6 +2,8 @@
 
 ## 2021 年
 
+2021/01/02: N. Bourbaki, *Lie Groups and Lie Algebras* の VIII.1 節（sl(2, k) の表現論）を読みました．sl(2, k) の表現論はむかし J. E. Humphreys, *Introduction to Lie Algebras and Representation Theory* で追ったことがあったので，よい復習になりました．Humphreys では係数体 k は標数 0 の代数閉体としていたところ，Bourbaki では標数 0 だけで，代数閉は課していません．代数閉を課さなくても同じように sl(2, k) の有限次元既約表現が分類できることは初めて知りました．
+
 2021/01/01: Lie 代数，被覆空間，ホモトピー群あたりの解説文書を作りたいと思っています．
 
 2021/01/01: 「相棒 元日スペシャル」を観ました．やや面白かったです．
