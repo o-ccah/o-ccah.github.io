@@ -2,7 +2,9 @@
 
 ## 2021 年
 
-2021/01/06: [Chessformer](https://rob1221.itch.io/chessformer)で遊びました．ネタバレあり感想は[こちら](./diary-files/942ce0dba312.md)．
+2021/01/06: 日記に付随するファイルアップロード用のフォルダを diary-imgs から diary-files に改名しました．
+
+2021/01/06: [Chessformer](https://rob1221.itch.io/chessformer) で遊びました．ネタバレあり感想は[こちら](./diary-files/942ce0dba312.md)．
 
 2021/01/05: 東大数理の院試の 2016 年度 A5 を見て[こんなこと](./diary-files/e250a86c2c61.png)を考えました．
 
