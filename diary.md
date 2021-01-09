@@ -2,6 +2,8 @@
 
 ## 2021 年
 
+2021/01/09: [クレイモア・セミナー・オンライン](https://twipla.jp/events/470238)に参加しました．発表内容は[こちら](./diary-files/099e35e532b2.md)．
+
 2021/01/06: 日記に付随するファイルアップロード用のフォルダを diary-imgs から diary-files に改名しました．
 
 2021/01/06: [Chessformer](https://rob1221.itch.io/chessformer) で遊びました．ネタバレあり感想は[こちら](./diary-files/942ce0dba312.md)．
