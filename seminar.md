@@ -9,6 +9,7 @@
 
 ## 終了したセミナー
 
+* [クレイモア・セミナー・オンライン](seminar/iclaymore-20210109.md)
 * [コンパクト群の表現論セミナー](seminar/peter-weyl.md)
 * [Wells セミナー](seminar/wells.md)
 * [Gelfand 理論セミナー](seminar/gelfand.md)
