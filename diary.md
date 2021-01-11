@@ -2,6 +2,12 @@
 
 ## 2021 年
 
+2021/01/11: 次の問題を考えています：
+
+> n を自然数とし，{1, ..., 2n + 1} の n 元部分集合全体の集合を X と置く．全単射 F: X → X であって，任意の A ∈ X に対して A ∩ F(A) = ∅ となるものは存在するか？
+
+n = 0, 1, 2, 3 のときには「X を辞書式順序で整列して，小さい A ∈ X から順に，ここまでの定義と矛盾しない範囲で『A にも F(A) にも属さない唯一の元』が最小になるように F(A) を定める」というアルゴリズムでうまくいくことを確認しました．
+
 2021/01/11: Mathematics Stack Exchange に次の質問を[投稿しました](https://math.stackexchange.com/questions/3980952/semisimplicity-of-lie-algebras-and-non-degeneracy-of-associated-bilinear-forms-o)：
 
 > g を標数 0 の可換体 K 上の有限次元 Lie 代数とします．g の任意の忠実な有限次元表現 ρ に対して，それに伴う双線型形式 B_ρ: g × g → K; (x, y) \|→ Tr(ρ(x)ρ(y)) が非退化ならば，g は半単純でしょうか？
