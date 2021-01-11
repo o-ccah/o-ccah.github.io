@@ -4,7 +4,7 @@
 
 2021/01/11: Mathematics Stack Exchange に次の質問を[投稿しました](https://math.stackexchange.com/questions/3980952/semisimplicity-of-lie-algebras-and-non-degeneracy-of-associated-bilinear-forms-o)：
 
-g を標数 0 の可換体 K 上の有限次元 Lie 代数とします．g の任意の忠実な有限次元表現 ρ に対して，それに伴う双線型形式 B_ρ: g × g → K; (x, y) |→ Tr(ρ(x)ρ(y)) が非退化ならば，g は半単純でしょうか？
+> g を標数 0 の可換体 K 上の有限次元 Lie 代数とします．g の任意の忠実な有限次元表現 ρ に対して，それに伴う双線型形式 B_ρ: g × g → K; (x, y) \mapsto Tr(ρ(x)ρ(y)) が非退化ならば，g は半単純でしょうか？
 
 2021/01/09: [クレイモア・セミナー・オンライン](https://twipla.jp/events/470238)に参加しました．詳細は[こちら](seminar/iclaymore-20210109.md)．
 
