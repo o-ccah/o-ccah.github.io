@@ -2,13 +2,17 @@
 
 ## 2021 年
 
+2021/01/20: 「[プリンセス・プリンシパル Crown Handler](https://pripri-anime.jp)」第 1 章は 2021 年 2 月 11 日 (木・祝) 上映ですね．
+
+2021/01/20: 「[ガールズ & パンツァー 最終章](https://girls-und-panzer-finale.jp)」第 3 話の上映情報が公開されました．2021 年 3 月 26 日 (金) 上映とのことです．
+
 2021/01/17: むかし劇場で観た「LIAR GAME The Final Stage」を観直しました．真実の赤リンゴを揃えたすぎるだろ，と思いました．
 
 2021/01/15: 超関数に関する疑問です：
 
 > f ∈ L^1_loc(R^n) を超関数とみなしたもの T_f が緩増加ならば，任意の φ ∈ S(R^n) に対して積分 ∫ fφ が定まって T_f(φ) = ∫ fφ が成り立つといえるでしょうか？
 
-2021/01/15: でぃぐさんから，「点列コンパクト分離空間 X に対して，X^{ω_1} は点列コンパクトである」という命題が ZFC 上独立であることを教えていただきました．Math Stack Exchange の[このページ](https://math.stackexchange.com/questions/3985054/for-some-sequentially-compact-space-x-is-x-omega-1-not-sequentially-comp)に書いてあります．
+2021/01/15: でぃぐさんから，「点列コンパクト分離空間 X に対して，X^{ω_1} は点列コンパクトである」という命題が ZFC 上独立であることを教えていただきました．Mathematics Stack Exchange の[このページ](https://math.stackexchange.com/questions/3985054/for-some-sequentially-compact-space-x-is-x-omega-1-not-sequentially-comp)に書いてあります．
 
 2021/01/13: 点列コンパクト性は可算積で保たれますが，連続体濃度をもつ族の積では保たれません（2^{2^ω} は点列コンパクトではない）．では，2^κ が点列コンパクトにならないような最小の基数 κ が何かというと，（ZFC が矛盾しない限り，以下省略）ZFC では ω_1 ≦ κ ≦ 2^ω であるということ以外はわからないようです（[クレイモア・セミナー・オンライン](seminar/iclaymore-20210109.md)ででぃぐさんから伺いました）．したがって，位相空間 X に対して，
 
