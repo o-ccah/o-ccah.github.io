@@ -4,12 +4,12 @@
 
 ## 継続中のセミナー
 
-* [児玉永見セミナー](seminar/kodama-nagami.md)
-* [GSM46 セミナー](seminar/gsm46.md)
 * [楕円型正則性セミナー](seminar/elliptic-regularity.md)
 
 ## 終了したセミナー
 
+* [児玉永見セミナー](seminar/kodama-nagami.md)
+* [GSM46 セミナー](seminar/gsm46.md)
 * [クレイモア・セミナー・オンライン](seminar/iclaymore-20210109.md)
 * [コンパクト群の表現論セミナー](seminar/peter-weyl.md)
 * [Wells セミナー](seminar/wells.md)
