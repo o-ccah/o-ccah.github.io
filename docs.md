@@ -39,6 +39,12 @@
 * [スペクトル分解のノート](docs/spectral-decomposition.md)
 * [コンパクト作用素のノート](docs/compact-operator.md)
 
+## メモ
+
+単発で，忘れがちな定理の証明などをまとめていく予定です．
+
+* [対称多項式の基本定理](docs/symmetric-polynomial.md)
+
 ## その他
 
 * [Kunen『数学基礎論講義』第 I 章の演習問題の解答](docs/kunen-foundations-answer.md)
