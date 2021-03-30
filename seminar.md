@@ -4,10 +4,9 @@
 
 ## 継続中のセミナー
 
-* [楕円型正則性セミナー](seminar/elliptic-regularity.md)
-
 ## 終了したセミナー
 
+* [楕円型正則性セミナー](seminar/elliptic-regularity.md)
 * [児玉永見セミナー](seminar/kodama-nagami.md)
 * [GSM46 セミナー](seminar/gsm46.md)
 * [クレイモア・セミナー・オンライン](seminar/iclaymore-20210109.md)
