@@ -2,7 +2,7 @@
 
 ## 2021 年
 
-
+2021/03/31: 実験も兼ねて，過去の数式を含む投稿を MathJax を使って書き直しました．普段使いするようなコマンドはだいたい使えるようです．`\text`, `\operatorname` や，Mathematics Stack Exchange で使えなかった `\mathscr` も使えました．ただ，`\{`, `\}`, `\#` はエスケープシーケンスを重ねて `\\{`, `\\}`, `\\#` と書かなければいけないようです．
 
 2021/03/31: [このページ](https://qiita.com/memakura/items/e4d2de379f98ad7be498)を参考にして，MathJax を使えるようにしました．テスト: $ e^{i\theta} = \cos \theta + i \sin \theta $．
 
