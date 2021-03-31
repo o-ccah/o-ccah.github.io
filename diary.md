@@ -46,7 +46,7 @@
 
 2021/01/24: 2021/01/15 に投稿した超関数に関する疑問ですが，「slow growth でない関数が緩増加超関数を定める例」をいじったら反例が作れました．詳細は[こちら](https://math.stackexchange.com/questions/3995784/on-a-tempered-distribution-which-comes-from-a-locally-integrable-function)．
 
-2021/01/23: 自然演繹 NK で ∨, ⊥, ∃ のみを「原子論理記号」とし ∧, →, ∀ を略記法として定義する場合，∧, →, ∀ に関する推論規則が ∨, ⊥, ∃ に関する推論規則から導けることを[確認しました](diary-files/a2e7f7c803f3.pdf)．
+2021/01/23: 自然演繹 NK で $ \lor $, $ \bot $, $ \exists $ のみを「原子論理記号」とし $ \land $, $ \rightarrow $, $ \forall $ を略記法として定義する場合，$ \land $, $ \rightarrow $, ∀ に関する推論規則が $ \lor $, $ \bot $, $ \exists $ に関する推論規則から導けることを[確認しました](diary-files/a2e7f7c803f3.pdf)．
 
 2021/01/23: スマートフォンのブラウザで新しいタブが開けなくなって何事かと思ったのですが，タブは最大で 500 個までしか同時に開けないようです．
 
@@ -60,22 +60,22 @@
 
 2021/01/15: 超関数に関する疑問です：
 
-> f ∈ L^1_loc(R^n) を超関数とみなしたもの T_f が緩増加ならば，任意の φ ∈ S(R^n) に対して積分 ∫ fφ が定まって T_f(φ) = ∫ fφ が成り立つといえるでしょうか？
+> $ f \in L^1_{\mathrm{loc}}(\mathbb{R}^n) $ を超関数とみなしたもの $ T_f $ が緩増加ならば，任意の $ \phi \in \mathscr{S}(\mathbb{R}^n) $ に対して積分 $ \int f\phi $ が定まって $ T_f(\phi) = \int f\phi $ が成り立つといえるでしょうか？
 
-2021/01/15: でぃぐさんから，「点列コンパクト分離空間 X に対して，X^{ω_1} は点列コンパクトである」という命題が ZFC 上独立であることを教えていただきました．Mathematics Stack Exchange の[このページ](https://math.stackexchange.com/questions/3985054/for-some-sequentially-compact-space-x-is-x-omega-1-not-sequentially-comp)に書いてあります．
+2021/01/15: でぃぐさんから，「点列コンパクト分離空間 $ X $ に対して，$ X^{\omega_1} $ は点列コンパクトである」という命題が ZFC 上独立であることを教えていただきました．Mathematics Stack Exchange の[このページ](https://math.stackexchange.com/questions/3985054/for-some-sequentially-compact-space-x-is-x-omega-1-not-sequentially-comp)に書いてあります．
 
-2021/01/13: 点列コンパクト性は可算積で保たれますが，連続体濃度をもつ族の積では保たれません（2^{2^ω} は点列コンパクトではない）．では，2^κ が点列コンパクトにならないような最小の基数 κ が何かというと，（ZFC が矛盾しない限り，以下省略）ZFC では ω_1 ≦ κ ≦ 2^ω であるということ以外はわからないようです（[クレイモア・セミナー・オンライン](seminar/iclaymore-20210109.md)ででぃぐさんから伺いました）．したがって，位相空間 X に対して，
+2021/01/13: 点列コンパクト性は可算積で保たれますが，連続体濃度をもつ族の積では保たれません（$ 2^{2^\omega} $ は点列コンパクトではない）．では，$ 2^\kappa $ が点列コンパクトにならないような最小の基数 $ \kappa $ が何かというと，（ZFC が矛盾しない限り，以下省略）ZFC では $ \omega_1 \leq \kappa \leq 2^\omega $ であるということ以外はわからないようです（[クレイモア・セミナー・オンライン](seminar/iclaymore-20210109.md)ででぃぐさんから伺いました）．したがって，位相空間 $ X $ に対して，
 
-1. X が 2 = {0, 1} を閉部分空間として含むならば，X^{ω_1} が点列コンパクトであることは ZFC では証明できず，
-1. X が 2^{ω_1} の連続像として書ける位相空間（たとえば [0, 1]^{ω_1}）の閉部分空間として含まれるならば，X^{ω_1} が点列コンパクトでないことは ZFC では証明できない
+1. $ X $ が $ 2 = \{0, 1\} $ を閉部分空間として含むならば，$ X^{\omega_1} $ が点列コンパクトであることは ZFC では証明できず，
+1. $ X $ が $ 2^{\omega_1} $ の連続像として書ける位相空間（たとえば $ [0, 1]^{\omega_1} $）の閉部分空間として含まれるならば，$ X^{\omega_1} $ が点列コンパクトでないことは ZFC では証明できない
 
 ということになります．では，
 
-> 点列コンパクト空間 X であって，X^{ω_1} が点列コンパクトでないものは存在するでしょうか？
+> 点列コンパクト空間 $ X $ であって，$ X^{\omega_1} $ が点列コンパクトでないものは存在するでしょうか？
 
-これが存在したとしても，1 には反しません．また．2 より，このような X が存在したとすればかなり大きい空間になりそうだと思えます．
+これが存在したとしても，1 には反しません．また．2 より，このような $ X $ が存在したとすればかなり大きい空間になりそうだと思えます．
 
-2021/01/13: Mathematics Stack Exchange に投稿した質問に[回答が付いていました](https://math.stackexchange.com/questions/3980952/semisimplicity-of-lie-algebras-and-non-degeneracy-of-associated-bilinear-forms-o)．仮定（と Ado の定理）より g が簡約であることがわかり，中心 Z(g) が 0 でないとすると仮定に反する g の忠実な有限次元表現が作れてしまうので，g は半単純になるということです．
+2021/01/13: Mathematics Stack Exchange に投稿した質問に[回答が付いていました](https://math.stackexchange.com/questions/3980952/semisimplicity-of-lie-algebras-and-non-degeneracy-of-associated-bilinear-forms-o)．仮定（と Ado の定理）より $ \mathfrak{g} $ が簡約であることがわかり，中心 $ Z(\mathfrak{g}) $ が $ 0 $ でないとすると仮定に反する $ \mathfrak{g} $ の忠実な有限次元表現が作れてしまうので，$ \mathfrak{g} $ は半単純になるということです．
 
 2021/01/13: 「相棒 19」を観ました．久々に軽めの話で，楽しく観られました．
 
@@ -83,13 +83,13 @@
 
 2021/01/11: 次の問題を考えています：
 
-> n を自然数とし，{1, ..., 2n + 1} の n 元部分集合全体の集合を X と置く．全単射 F: X → X であって，任意の A ∈ X に対して A ∩ F(A) = ∅ となるものは存在するか？
+> $ n $ を自然数とし，$ \{1, \dots, 2n + 1\} $ の $ n $ 元部分集合全体の集合を $ X $ と置く．全単射 $ F\colon X \to X % であって，任意の $ A \in X $ に対して $ A \cap F(A) = \emptyset $ となるものは存在するか？
 
-n = 0, 1, 2, 3 のときには「X を辞書式順序で整列して，小さい A ∈ X から順に，ここまでの定義と矛盾しない範囲で『A にも F(A) にも属さない唯一の元』が最小になるように F(A) を定める」というアルゴリズムでうまくいくことを確認しました．
+$ n = 0 $, $ 1 $, $ 2 $, $ 3 $ のときには「$ X $ を辞書式順序で整列して，小さい $ A \in X $ から順に，ここまでの定義と矛盾しない範囲で『$ A $ にも $ F(A) $ にも属さない唯一の元』が最小になるように $ F(A) $ を定める」というアルゴリズムでうまくいくことを確認しました．
 
 2021/01/11: Mathematics Stack Exchange に次の質問を[投稿しました](https://math.stackexchange.com/questions/3980952/semisimplicity-of-lie-algebras-and-non-degeneracy-of-associated-bilinear-forms-o)：
 
-> g を標数 0 の可換体 K 上の有限次元 Lie 代数とします．g の任意の忠実な有限次元表現 ρ に対して，それに伴う双線型形式 B_ρ: g × g → K; (x, y) \|→ Tr(ρ(x)ρ(y)) が非退化ならば，g は半単純でしょうか？
+> $ \mathfrak{g} $ を標数 $ 0 $ の可換体 $ K $ 上の有限次元 Lie 代数とします．$ \mathfrak{g} $ の任意の忠実な有限次元表現 $ \rho $ に対して，それに伴う双線型形式 $ B_ρ\colon \mathfrak{g} \times \mathfrak{g} \to K $; $ (x, y) \mapsto \operatorname{Tr}(\rho(x) \rho(y)) $ が非退化ならば，$ \mathfrak{g} $ は半単純でしょうか？
 
 2021/01/09: [クレイモア・セミナー・オンライン](seminar/iclaymore-20210109.md)に参加しました．
 
@@ -121,7 +121,7 @@ n = 0, 1, 2, 3 のときには「X を辞書式順序で整列して，小さい
 
 2021/01/02: 今年度中にコンパクト Lie 群の表現論と微分幾何学に入門しておきたいです．
 
-2021/01/02: N. Bourbaki, *Lie Groups and Lie Algebras* の VIII.1 節（sl(2, k) の表現論）を読みました．sl(2, k) の表現論はむかし J. E. Humphreys, *Introduction to Lie Algebras and Representation Theory* で追ったことがあったので，よい復習になりました．Humphreys では係数体 k は標数 0 の代数閉体としていたところ，Bourbaki では標数 0 だけで，代数閉は課していません．代数閉を課さなくても同じように sl(2, k) の有限次元既約表現が分類できることは初めて知りました．
+2021/01/02: N. Bourbaki, *Lie Groups and Lie Algebras* の VIII.1 節（$ \mathfrak{sl}(2, k) $ の表現論）を読みました．$ \mathfrak{sl}(2, k) $ の表現論はむかし J. E. Humphreys, *Introduction to Lie Algebras and Representation Theory* で追ったことがあったので，よい復習になりました．Humphreys では係数体 $ k $ は標数 $ 0 $ の代数閉体としていたところ，Bourbaki では標数 $ 0 $ だけで，代数閉は課していません．代数閉を課さなくても同じように $ \mathfrak{sl}(2, k) $ の有限次元既約表現が分類できることは初めて知りました．
 
 2021/01/01: Lie 代数，被覆空間，ホモトピー群あたりの解説文書を作りたいと思っています．
 
