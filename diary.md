@@ -2,6 +2,8 @@
 
 ## 2021 年
 
+2021/04/05: Mathematics Stack Exchange に質問を[投稿しました](https://math.stackexchange.com/questions/4089993)．
+
 2021/04/01: 「輪るピングドラム」の劇場版制作が[決定したようです](https://natalie.mu/comic/news/422628)．
 
 2021/03/31: 実験も兼ねて，過去の数式を含む投稿を MathJax を使って書き直しました．普段使いするようなコマンドはだいたい使えるようです．`\text`, `\operatorname` や，Mathematics Stack Exchange で使えなかった `\mathscr` も使えました．ただ，`\{`, `\}`, `\#` はエスケープシーケンスを重ねて `\\{`, `\\}`, `\\#` と書かなければいけないようです．
