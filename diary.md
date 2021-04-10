@@ -2,6 +2,8 @@
 
 ## 2021 年
 
+2021/04/10: 先日投稿した質問ですが，みつば さんに教えてもらって解決したので，自分で回答を[投稿しました](https://math.stackexchange.com/questions/4089993)．ありがとうございます．
+
 2021/04/05: Mathematics Stack Exchange に質問を[投稿しました](https://math.stackexchange.com/questions/4089993)．
 
 2021/04/01: 「輪るピングドラム」の劇場版制作が[決定したようです](https://natalie.mu/comic/news/422628)．
