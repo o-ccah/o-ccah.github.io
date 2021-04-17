@@ -2,6 +2,8 @@
 
 ## 2021 年
 
+2021/04/17: 層の切断を表すときに記号$ \Gamma $をよく使いますが，これは何に由来するのでしょうか？
+
 2021/04/10: 先日投稿した質問ですが，みつば さんに教えてもらって解決したので，自分で回答を[投稿しました](https://math.stackexchange.com/questions/4089993)．ありがとうございます．
 
 2021/04/05: Mathematics Stack Exchange に質問を[投稿しました](https://math.stackexchange.com/questions/4089993)．
