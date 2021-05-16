@@ -28,7 +28,7 @@
   * 例: 「関数 $ f\colon \mathbb{R} \to \mathbb{R} $ を，$ f(x) = x^2 $（$ x \in \mathbb{R} $）と定める．」
   * 例: 「関数 $ f \in L^1(\mathbb{R}^n) $ の Fourier 変換 $ \mathscr{F} f $ を，
     \\[
-      \mathscr{F} f(\xi) = \int_{\mathbb{R}^n} f(x) e^{2\pi i x\xi} \,dx
+      \mathscr{F} f(\xi) = \int_{\mathbb{R}^n} f(x) e^{-2\pi i x\xi} \,dx
         \qquad (\xi \in \mathbb{R}^n)
     \\]
     と定める．」
