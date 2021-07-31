@@ -4,6 +4,8 @@
 
 ## 継続中のセミナー
 
+* [代トポセミナー](seminar/algtop.md)
+
 ## 終了したセミナー
 
 * [楕円型正則性セミナー](seminar/elliptic-regularity.md)
