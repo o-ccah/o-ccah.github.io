@@ -28,7 +28,7 @@
 
   内容: ここまでで飛ばした内容のうち，事実として認めたものと第 12 章「Cellular Homology」で必要になるものを回収した．具体的には，コファイブレーション，ウェッジ和と部分集合を 1 点に潰す操作に関する公理的ホモロジーの性質，CW 複体の定義と基本的性質を見た．
 
-  補足: 「包含写像 $ A \to X $ がコファイブレーションならば $ A $ を変位レトラクトにもつ開集合 $ U \subseteq X $ が存在するか？」という疑問が埋まらなかった．Remark 10.2.4 で $ A $ が閉な 1 点集合の場合が主張されていて，そこでは Proposition 5.4.4 が参照されている．Proposition 5.4.4 は「包含写像 $ A \to X $ がコファイブレーションである」ことと「$ (X, A) $ が NDR（Neighborhood Deformation Retract）である」ことが同値であるという主張．ここで，$ (X, A) $ が NDR であるは，連続写像 $ \psi\colon X \times I \to X $ と $ v\colon X \to I $ が存在して次の 4 条件を満たすこと（[nLab](https://ncatlab.org/nlab/show/neighborhood+retract) も同じ定義）:
+  補足: 「包含写像 $ A \to X $ がコファイブレーションならば $ A $ を変位レトラクトにもつ開集合 $ U \subseteq X $ が存在するか？」という疑問が埋まらなかった．Remark 10.2.4 で $ A $ が閉な 1 点集合の場合が主張されていて，そこでは Proposition 5.4.4 が参照されている．Proposition 5.4.4 は「包含写像 $ A \to X $ がコファイブレーションである」ことと「$ (X, A) $ が NDR（Neighborhood Deformation Retract）である」ことが同値であるという主張．ここで，$ (X, A) $ が NDR であるとは，連続写像 $ \psi\colon X \times I \to X $ と $ v\colon X \to I $ が存在して次の 4 条件を満たすこと（[nLab](https://ncatlab.org/nlab/show/neighborhood+retract) も同じ定義）:
 
   * $ A = v^{-1}({0}) $，
   * $ ψ(-, 0) = \mathrm{id}_X $，
