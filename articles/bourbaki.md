@@ -27,7 +27,7 @@
 * 森毅，『[位相のこころ](https://www.chikumashobo.co.jp/product/9784480089571/)』，筑摩書房，2006．（絶版）
 * 森毅，『[現代の古典解析](https://www.chikumashobo.co.jp/product/9784480090102/)』，筑摩書房，2006．
 * 梅田亨，『[森毅の主題による変奏曲 上・下](https://www.nippyo.co.jp/shop/book/7696.html)』，日本評論社，2018．
-* 金子真隆，『[積分概念の導入に関する教科書調査について (II)](https://mylibrary.toho-u.ac.jp/webopac/TD70525281)』東邦大学教養紀要 **47** (2015): 31--47．
+* 金子真隆，『[積分概念の導入に関する教科書調査について (II)](https://mylibrary.toho-u.ac.jp/webopac/TD70525281)』，東邦大学教養紀要 **47** (2015): 31--47．
 * 斎藤毅，「[ブルバキと「数学原論」](https://www.ms.u-tokyo.ac.jp/~t-saito/jd/bourbakib.pdf)」．
 * 斎藤毅，「[proper 射の謎](https://www.ms.u-tokyo.ac.jp/~t-saito/jd/proper.pdf)」．
 * 村田全，「[『ブルバキ数学史』について](http://fomalhautpsa.sakura.ne.jp/Science/Murata/bourbaki-utf.pdf)」．
