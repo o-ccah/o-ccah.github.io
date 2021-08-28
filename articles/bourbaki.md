@@ -20,7 +20,7 @@
   * M. Atiyah による[書評](https://www.ams.org/notices/200709/tx070901150p.pdf)がある．
 * A. Borel, ``[Twenty-Five Years with Nicolas Bourbaki, 1949--1973](https://www.ams.org/journals/notices/199803/borel.pdf)'', *Notices of AMS* **45**.3 (1998): 373--380.
 * J. McCleary, ``[Bourbaki and Algebraic Topology](https://pages.vassar.edu/mccleary/files/2011/04/BourbakiAlgTop.pdf)'', 2011.
-* S. K. Berberian, [Regulated Functions: Bourbaki's Alternative to the Riemann Integral](https://www.jstor.org/stable/2321526), *The American Mathematical Monthly* **86**.3 (1979): 208--211. 
+* S. K. Berberian, ``[Regulated Functions: Bourbaki's Alternative to the Riemann Integral](https://www.jstor.org/stable/2321526)'', *The American Mathematical Monthly* **86**.3 (1979): 208--211. 
 * A. R. D. Mathias, ``[The Ignorance of Bourbaki](https://www.dpmms.cam.ac.uk/~ardm/bourbaki.pdf)'', 1990.
 
 * 森毅，『現代数学とブルバキ』，東京図書，1967．（絶版）
