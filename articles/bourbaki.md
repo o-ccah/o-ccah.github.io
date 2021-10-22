@@ -18,7 +18,7 @@
 
 ### 『数学』における書評
 
-[日本数学会のページ](https://www.mathsoc.jp/publications/sugaku/dbase/sugaku_br.html) で確認する限り，これまで 6 回『数学原論』の書評が掲載されている．
+[日本数学会のページ](https://www.mathsoc.jp/publications/sugaku/dbase/sugaku_br.html)で確認する限り，これまで 6 回『数学原論』の書評が掲載されている．
 
 * 赤攝也，「[**N. Bourbaki: Théorie des ensembles** (Chap. I, Chap. II), Éléments de mathématique, Livre I, Hermann 1954, p. 136.](https://www.jstage.jst.go.jp/article/sugaku1947/7/1/7_1_49/_article/-char/ja)」，『数学』 **7**.1 (1955): 50--54．
 * 岩堀長慶，「[**N. Bourbaki: Éléments de mathématique, Livre II**, Algèbre, Chapitre VI. Groupes et corps ordonnés, Chapitre VII. Modules sur les anneau principaux, Actualités scientifique et industrielle, 1179, Hermann, Paris, 1952, pp. 153.](https://www.jstage.jst.go.jp/article/sugaku1947/7/1/7_1_49/_article/-char/ja)」，『数学』 **7**.3 (1955): 178--181．
