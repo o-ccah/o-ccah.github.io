@@ -75,3 +75,15 @@
 * \#12: 2021/10/23 (土)
 
   内容: 第 18 章「Duality」に入った．特異ホモロジー・コホモロジーのキャップ積を定義し，その基本的な性質を見た．それを踏まえて，duality pairing を公理的に定義した．
+
+* \#13: 2021/11/06 (土)
+
+  内容: チェック付きのコホモロジーを定義して，基本的な性質を見た．$ k_* $-orientation を導入した．これらを用いて duality homomorphism を定義し，Duality Theorem の主張を述べた．
+
+* \#14: 2021/11/13 (土)
+
+  内容: Duality Theorem を証明した．また，ENR（Euclidean Neighbourhood Retract）を導入し，これを用いてチェック付きのコホモロジーが通常のコホモロジーに一致するための十分条件を述べた．
+
+  補足: Duality Theorem の証明の最後で次の主張が使われているが，本当に成り立つのか疑問（特異ホモロジーなら正しい）．CW 分割とかになっていないとダメじゃないかと思う．セミナーでは，これも Duality Theorem の仮定に付け加えておいた．
+
+  > $ h_* $ を加法的なホモロジー理論とする．$ M $ が多様体，$ (K_i)_i $ が $ M $ のコンパクト集合の減少列で $ K = \bigcap_i K_i $ と置くとき，自然な準同型 $ \operatorname{colim}_i h_k(M, \setminus K_i) \to h_k(M, M \setminus K) $ は同型である．
