@@ -10,5 +10,4 @@
 * [記事](articles/)
 * [セミナーの記録](seminar/)
 * [bio の記録](bio/)
-* [日記](diary.md)
 * [プロフィール画像について](profile/)
