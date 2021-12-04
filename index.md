@@ -6,9 +6,9 @@
 
 ## サブページ
 
-* [文書置き場](docs.md)
+* [文書置き場](docs/)
 * [記事](articles/)
-* [セミナーの記録](seminar.md)
-* [bio の記録](bio.md)
+* [セミナーの記録](seminar/)
+* [bio の記録](bio/)
 * [日記](diary.md)
-* [プロフィール画像について](profile.md)
+* [プロフィール画像について](profile/)
