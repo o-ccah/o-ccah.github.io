@@ -23,12 +23,12 @@ $ k \in \mathbb{N} $ に関して再帰的に有限部分集合 $ S_k \subseteq 
 (2) ⇒ (1): (2)が成り立つとする．$ I_n = I \cap \\{0, \dots, n - 1\\} $ と置く．
 
 $ \epsilon > 0 $ を任意にとる．$ I $ に関する仮定より，$ n $ が十分大きければ $ \\#I_n/n \leq \epsilon $ である．また，$ \lim_{i \notin I} a_i \to 0 $ と Cesàro 平均に関するよく知られた事実より，$ n $ が十分大きければ $ (\sum_{i \in \\{0, \dots, n - 1\\} \setminus I_n} a_i)/(n - \\#I_n) \leq \epsilon $である．よって，$ n $ が十分大きければ，
-\begin{align*}
+\begin{align}
   \frac{1}{n} \sum_{i = 0}^{n - 1} a_i
   &= \frac{1}{n} \sum_{i \in \\{0, \dots, n - 1\\} \setminus I_n} a_i
     + \frac{1}{n} \sum_{i \in I_n} a_i \\
   &\leq \frac{1}{n - \\#I_n} \sum_{i \in \\{0, \dots, n - 1\\} \setminus I_n} a_i
     + \frac{\\#I_n}{n} \\
   &\leq \epsilon
-\end{align*}
+\end{align}
 である．よって，(1)が成り立つ．
