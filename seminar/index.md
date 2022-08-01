@@ -4,9 +4,10 @@
 
 ## 継続中のセミナー
 
+* [半単純 Lie 代数の表現論セミナー](lie-algebra.md)
+
 ## 終了したセミナー
 
-* [半単純 Lie 代数の表現論セミナー](lie-algebra.md)
 * [代トポセミナー](algtop.md)
 * [楕円型正則性セミナー](elliptic-regularity.md)
 * [児玉永見セミナー](kodama-nagami.md)
