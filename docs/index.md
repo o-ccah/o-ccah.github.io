@@ -22,6 +22,7 @@
 * [列型空間のノート](sequential-space.md)
 * [スペクトル分解のノート](spectral-decomposition.md)
 * [コンパクト作用素のノート](compact-operator.md)
+* [被覆空間のノート](covering-space.md)
 
 ## 発表資料
 
