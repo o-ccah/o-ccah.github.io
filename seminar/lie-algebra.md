@@ -9,7 +9,7 @@
 * N. Bourbaki, *Elements of Mathematics, Lie Groups and Lie Algebras, Chapters 1--3*, Springer, 1989.
 * N. Bourbaki, *Elements of Mathematics, Lie Groups and Lie Algebras, Chapters 4--6*, Springer, 2002.
 * N. Bourbaki, *Elements of Mathematics, Lie Groups and Lie Algebras, Chapters 7--9*, Springer, 2005.
-* J. Humphreys, *Introduction to Lie Algebras and Representation Theory*, Springer, 1972.
+* J. E. Humphreys, *Introduction to Lie Algebras and Representation Theory*, Springer, 1972.
 
 発表者: 箱
 

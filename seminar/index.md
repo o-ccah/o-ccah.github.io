@@ -4,6 +4,8 @@
 
 ## 継続中のセミナー
 
+* [実単純 Lie 代数の分類セミナー](real-simple-lie-algebra.md)
+
 ## 終了したセミナー
 
 * [確率論雑談セミナー](prob-talk.md)
