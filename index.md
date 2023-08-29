@@ -9,5 +9,4 @@
 * [文書置き場](docs/)
 * [記事](articles/)
 * [セミナーの記録](seminar/)
-* [bio の記録](bio/)
 * [プロフィール画像について](profile/)
