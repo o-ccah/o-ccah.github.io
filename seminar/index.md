@@ -4,6 +4,8 @@
 
 ## 継続中のセミナー
 
+* [BGG セミナー](bgg.md)
+
 ## 終了したセミナー
 
 * [実単純 Lie 代数の分類セミナー](real-simple-lie-algebra.md)
