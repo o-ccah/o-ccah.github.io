@@ -35,3 +35,7 @@
 * \#06: 2023/09/10 (日)
 
   内容: Verma による結果の証明を終えた．Shapovalov の定理を示した．
+
+* \#07: 2023/09/25 (月)
+
+  内容: Jantzen filtration に関する事実を認め，前回示した Shapovalov の定理を用いて，Verma 加群の間に 0 でない準同型が存在するための必要十分条件を述べる，Verma と Bernstein--Gelfand--Gelfand による定理を示した．
