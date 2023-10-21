@@ -4,10 +4,9 @@
 
 ## 継続中のセミナー
 
-* [BGG セミナー](bgg.md)
-
 ## 終了したセミナー
 
+* [BGG セミナー](bgg.md)
 * [実単純 Lie 代数の分類セミナー](real-simple-lie-algebra.md)
 * [確率論雑談セミナー](prob-talk.md)
 * [半単純 Lie 代数の表現論セミナー](lie-algebra.md)
