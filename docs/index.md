@@ -22,7 +22,7 @@
 * [列型空間のノート](sequential-space.md)
 * [スペクトル分解のノート](spectral-decomposition.md)
 * [コンパクト作用素のノート](compact-operator.md)
-* [被覆空間のノート](covering-space.md)
+* [被覆空間](covering-space.md)
 
 これまでは「ノート」で統一していたのですが，一つの文書が長くなってきたのもあり，以降は特にこだわらないことにします．過去に書いたものの題名も変えるかもしれません．
 
