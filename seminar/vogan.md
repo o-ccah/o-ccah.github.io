@@ -2,7 +2,7 @@
 
 ## 概要
 
-目的: 多変数複素解析とその表現論への応用を学ぶ．
+目的: 実簡約Lie群の表現論を学ぶ．
 
 教科書: D. A. Vogan, Jr., *Representations of Real Reductive Lie Groups*, Birkhäuser, 1981.
 
