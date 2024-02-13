@@ -1,4 +1,4 @@
-# Bourbaki の情報まとめ
+# Bourbakiの情報まとめ
 
 ## ウェブページ
 
