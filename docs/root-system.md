@@ -1,6 +1,6 @@
 # ルート系
 
-[ルート系](files/root-system-20230829.pdf)
+[ルート系](files/root-system_20230829.pdf)
 
 ## 概要
 

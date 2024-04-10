@@ -1,6 +1,6 @@
 # 一様空間概説
 
-[一様空間概説](files/uniform-intro-20201121.pdf)
+[一様空間概説](files/uniform-intro_20201121.pdf)
 
 ## 概要
 

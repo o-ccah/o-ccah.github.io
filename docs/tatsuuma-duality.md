@@ -1,6 +1,6 @@
 # 辰馬双対定理
 
-[辰馬双対定理](files/tatsuuma-duality-20240213.pdf)
+[辰馬双対定理](files/tatsuuma-duality_20240213.pdf)
 
 ## 概要
 

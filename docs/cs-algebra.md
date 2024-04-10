@@ -1,6 +1,6 @@
 # C\*代数
 
-[C\*代数](files/cs-algebra-20230916.pdf)
+[C\*代数](files/cs-algebra_20230916.pdf)
 
 ## 概要
 

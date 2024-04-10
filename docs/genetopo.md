@@ -1,6 +1,6 @@
 # 位相空間論の鳥瞰
 
-[位相空間論の鳥瞰](files/genetopo-20210101.pdf)
+[位相空間論の鳥瞰](files/genetopo_20210101.pdf)
 
 ## 概要
 

@@ -1,6 +1,6 @@
 # 付値体のノート
 
-[付値体のノート](files/valued-field-20200509.pdf)
+[付値体のノート](files/valued-field_20200509.pdf)
 
 ## 概要
 

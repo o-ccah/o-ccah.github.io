@@ -1,6 +1,6 @@
 # スペクトル分解のノート
 
-[スペクトル分解のノート](files/spectral-decomposition-20210711.pdf)
+[スペクトル分解のノート](files/spectral-decomposition_20210711.pdf)
 
 ## 概要
 

@@ -1,6 +1,6 @@
 # 半単純Lie代数の表現論セミナー
 
-[半単純Lie代数の表現論セミナー](files/lie-algebra-seminar-20230309.pdf)
+[半単純Lie代数の表現論セミナー](files/lie-algebra-seminar_20230309.pdf)
 
 ## 概要
 

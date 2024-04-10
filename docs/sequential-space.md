@@ -1,6 +1,6 @@
 # 列型空間のノート
 
-[列型空間のノート](files/sequential-space-20200314.pdf)
+[列型空間のノート](files/sequential-space_20200314.pdf)
 
 ## 概要
 

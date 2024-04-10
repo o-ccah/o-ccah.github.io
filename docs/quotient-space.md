@@ -1,6 +1,6 @@
 # 商空間のノート
 
-[商空間のノート](files/quotient-space-20190611.pdf)
+[商空間のノート](files/quotient-space_20190611.pdf)
 
 ## 概要
 

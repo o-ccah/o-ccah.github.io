@@ -1,6 +1,6 @@
 # Gelfand理論のノート
 
-[Gelfand理論のノート](files/gelfand-20211021.pdf)
+[Gelfand理論のノート](files/gelfand_20211021.pdf)
 
 ## 概要
 

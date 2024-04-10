@@ -1,6 +1,6 @@
 # 対称多項式の基本定理
 
-[対称多項式の基本定理](files/symmetric-polynomial-20230310.pdf)
+[対称多項式の基本定理](files/symmetric-polynomial_20230310.pdf)
 
 ## 概要
 

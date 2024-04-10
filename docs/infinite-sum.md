@@ -1,6 +1,6 @@
 # 無限和のノート
 
-[無限和のノート](files/infinite-sum-20200929.pdf)
+[無限和のノート](files/infinite-sum_20200929.pdf)
 
 ## 概要
 

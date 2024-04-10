@@ -1,6 +1,6 @@
 # コンパクト作用素のノート
 
-[コンパクト作用素のノート](files/compact-operator-20210602.pdf)
+[コンパクト作用素のノート](files/compact-operator_20210602.pdf)
 
 ## 概要
 

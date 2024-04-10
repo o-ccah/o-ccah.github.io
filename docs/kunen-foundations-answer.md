@@ -1,6 +1,6 @@
 # Kunen『数学基礎論講義』第I章の演習問題の解答
 
-[Kunen『数学基礎論講義』第I章の演習問題の解答](files/kunen-foundations-answer-20210726.pdf)
+[Kunen『数学基礎論講義』第I章の演習問題の解答](files/kunen-foundations-answer_20210726.pdf)
 
 ## 概要
 

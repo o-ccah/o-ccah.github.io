@@ -1,6 +1,6 @@
 # 被覆空間
 
-[被覆空間](files/covering-space-20231124.pdf)
+[被覆空間](files/covering-space_20231124.pdf)
 
 ## 概要
 

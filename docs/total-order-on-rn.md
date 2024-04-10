@@ -1,6 +1,6 @@
 # R^nの実線型構造と整合する全順序の特徴付け
 
-[R^nの実線型構造と整合する全順序の特徴付け](files/total-order-on-rn-20200317.pdf)
+[R^nの実線型構造と整合する全順序の特徴付け](files/total-order-on-rn_20200317.pdf)
 
 ## 概要
 

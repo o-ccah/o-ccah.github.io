@@ -1,6 +1,6 @@
 # 球面上の調和解析と接吻数問題
 
-[球面上の調和解析と接吻数問題](files/kissing-number-20200908.pdf)
+[球面上の調和解析と接吻数問題](files/kissing-number_20200908.pdf)
 
 ## 概要
 

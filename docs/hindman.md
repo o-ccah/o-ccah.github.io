@@ -1,6 +1,6 @@
 # 離散半群のStone–Čechコンパクト化とRamsey理論
 
-[離散半群のStone–Čechコンパクト化とRamsey理論](files/hindman-20190512.pdf)
+[離散半群のStone–Čechコンパクト化とRamsey理論](files/hindman_20190512.pdf)
 
 ## 概要
 
