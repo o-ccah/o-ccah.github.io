@@ -29,6 +29,7 @@
 * [半単純 Lie 代数の表現論セミナー](lie-algebra-seminar.md)
 * [ルート系](root-system.md)
 * [C\* 代数](cs-algebra.md)
+* [ホモロジー論](homology.md)
 
 ## 発表資料
 
