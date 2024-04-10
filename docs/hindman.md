@@ -1,10 +1,10 @@
-# 離散半群の Stone--Čech コンパクト化と Ramsey 理論
+# 離散半群のStone–Čechコンパクト化とRamsey理論
 
-[離散半群の Stone--Čech コンパクト化と Ramsey 理論](files/hindman-20190512.pdf)
+[離散半群のStone–Čechコンパクト化とRamsey理論](files/hindman-20190512.pdf)
 
 ## 概要
 
-離散半群の Stone--Čech コンパクト化を考えることで，Hindman の定理の比較的見通しのよい証明が得られるというお話です．
+離散半群のStone–Čechコンパクト化を考えることで，Hindmanの定理の比較的見通しのよい証明が得られるというお話です．
 
 ## 更新履歴
 

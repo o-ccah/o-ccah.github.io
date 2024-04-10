@@ -1,10 +1,10 @@
-# C\* 代数
+# C\*代数
 
-[C\* 代数](files/cs-algebra-20230916.pdf)
+[C\*代数](files/cs-algebra-20230916.pdf)
 
 ## 概要
 
-C\* 代数のまとめです．「[Gelfand 理論のノート](gelfand.md)」の増補改訂版で，非単位的な場合も扱っています．内容は，Banach 代数や C\* 代数の基礎，Gelfand--Naimark の定理，連続関数算，正値線型形式と表現などです．
+C\*代数のまとめです．「[Gelfand理論のノート](gelfand.md)」の増補改訂版で，非単位的な場合も扱っています．内容は，Banach代数やC\*代数の基礎，Gelfand–Naimarkの定理，連続関数算，正値線型形式と表現などです．
 
 ## 更新履歴
 

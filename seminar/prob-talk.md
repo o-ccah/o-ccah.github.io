@@ -4,7 +4,7 @@
 
 参考書:
 
-* P. Billingsley, *Convergence of Probability Measures*, 2nd edition, Wiley, 1999.
+- P. Billingsley, *Convergence of Probability Measures*, 2nd edition, Wiley, 1999.
 
 発表者: ネス
 
@@ -12,6 +12,6 @@
 
 ## 記録
 
-* \#01: 2022/09/14 (水)
+- \#01: 2022/09/14 (水)
 
   内容: Prohorov の定理を証明した．

@@ -1,6 +1,6 @@
-# Fourier 級数のノート
+# Fourier級数のノート
 
-[Fourier 級数のノート](files/fourier-series-20200908.pdf)
+[Fourier級数のノート](files/fourier-series-20200908.pdf)
 
 ## 概要
 
