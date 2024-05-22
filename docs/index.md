@@ -30,6 +30,7 @@
 - [ルート系](root-system.md)
 - [C\*代数](cs-algebra.md)
 - [ホモロジー論](homology.md)
+- [確率論](probability.md)
 
 ## 発表資料
 
