@@ -1,6 +1,6 @@
-# 確率論
+# 確率過程
 
-[確率論](files/stochastic-process_20240522.pdf)
+[確率過程](files/stochastic-process_20240522.pdf)
 
 ## 概要
 
