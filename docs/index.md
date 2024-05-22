@@ -31,6 +31,7 @@
 - [C\*代数](cs-algebra.md)
 - [ホモロジー論](homology.md)
 - [確率論](probability.md)
+- [確率過程](stochastic-process.md)
 
 ## 発表資料
 
