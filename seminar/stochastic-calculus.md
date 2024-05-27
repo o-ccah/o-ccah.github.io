@@ -4,7 +4,7 @@
 
 目的: 確率積分を定義し，伊藤の公式を証明する．
 
-教科書: J.-F. Le Gall, *Brownian Motion, Martingales, and Stochastic Calculus*, Springer, 2018.
+参考書: J.-F. Le Gall, *Brownian Motion, Martingales, and Stochastic Calculus*, Springer, 2018.
 
 発表者: 箱
 
