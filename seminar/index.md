@@ -4,10 +4,9 @@
 
 ## 継続中のセミナー
 
-- [確率解析セミナー](stochastic-calculus.md)
-
 ## 終了したセミナー
 
+- [確率解析セミナー](stochastic-calculus.md)
 - [Voganセミナー](vogan.md)
 - [BGGセミナー](bgg.md)
 - [実単純Lie代数の分類セミナー](real-simple-lie-algebra.md)
