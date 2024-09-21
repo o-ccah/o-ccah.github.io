@@ -20,7 +20,7 @@
 - [付値体のノート](valued-field.md)
 - [Gelfand理論のノート](gelfand.md)
 - [列型空間のノート](sequential-space.md)
-- [スペクトル分解のノート](spectral-decomposition.md)
+- [スペクトル分解](spectral-decomposition.md)
 - [コンパクト作用素のノート](compact-operator.md)
 - [被覆空間](covering-space.md)
 
