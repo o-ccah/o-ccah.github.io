@@ -40,6 +40,7 @@
 - [球面上の調和解析と接吻数問題](kissing-number.md)
 - [量子力学の数理](qm-intro.md)
 - [辰馬双対定理](tatsuuma-duality.md)
+- [公理的熱力学](axiomatic-thermodynamics.md)
 
 ## 単発記事
 
