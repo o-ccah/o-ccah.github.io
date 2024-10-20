@@ -1,6 +1,6 @@
 # 公理的熱力学
 
-[公理的熱力学](files/axiomatic-thermodynamics_20241019.pdf)
+[公理的熱力学](files/axiomatic-thermodynamics_20241020.pdf)
 
 ## 概要
 
@@ -11,3 +11,5 @@
 ## 更新履歴
 
 2024/10/19: 公開
+
+2024/10/20: 誤植を修正しました．
