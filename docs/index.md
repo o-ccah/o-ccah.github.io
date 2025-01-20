@@ -32,6 +32,7 @@
 - [ホモロジー論](homology.md)
 - [確率論](probability.md)
 - [確率過程](stochastic-process.md)
+- [Lie代数](lie-algebra.md)
 
 ## 発表資料
 
