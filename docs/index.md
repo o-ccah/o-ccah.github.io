@@ -33,6 +33,7 @@
 - [確率論](probability.md)
 - [確率過程](stochastic-process.md)
 - [Lie代数](lie-algebra.md)
+- [数理統計](statistics.md)
 
 ## 発表資料
 
