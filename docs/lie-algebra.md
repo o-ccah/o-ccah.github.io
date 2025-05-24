@@ -1,6 +1,6 @@
 # Lie代数
 
-[Lie代数](files/lie-algebra_20250120.pdf)
+[Lie代数](files/lie-algebra_20250524.pdf)
 
 ## 概要
 
@@ -10,4 +10,6 @@ Poincaré–Birkhoff–Wittの定理の証明をサボっています．ほか�
 
 ## 更新履歴
 
-2025/01/20: 公開
+2025-01-20: 公開
+
+2025-05-24: 半単純Lie代数におけるJordan分解について加筆しました．
