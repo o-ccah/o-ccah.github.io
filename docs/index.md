@@ -34,6 +34,7 @@
 - [確率過程](stochastic-process.md)
 - [Lie代数](lie-algebra.md)
 - [数理統計](statistics.md)
+- [Hilbert空間](hilbert-space.md)
 
 ## 発表資料
 
