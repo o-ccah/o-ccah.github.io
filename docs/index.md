@@ -35,6 +35,7 @@
 - [Lie代数](lie-algebra.md)
 - [数理統計](statistics.md)
 - [Hilbert空間](hilbert-space.md)
+- [von Neumann代数](vn-algebra.md)
 
 ## 発表資料
 
