@@ -36,6 +36,7 @@
 - [数理統計](statistics.md)
 - [Hilbert空間](hilbert-space.md)
 - [von Neumann代数](vn-algebra.md)
+- [分裂簡約Lie代数](split-reductive-lie-algebra.md)
 
 ## 発表資料
 
