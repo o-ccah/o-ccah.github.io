@@ -1,6 +1,6 @@
 # 分裂簡約Lie代数
 
-[分裂簡約Lie代数](files/split-reductive-lie-algebra_20250701.pdf)
+[分裂簡約Lie代数](files/split-reductive-lie-algebra_20250807.pdf)
 
 ## 概要
 
@@ -13,3 +13,5 @@
 ## 更新履歴
 
 2025-07-01: 公開
+
+2025-08-07: 古典型分裂可能（半）単純Lie代数の構成について追記しました．
